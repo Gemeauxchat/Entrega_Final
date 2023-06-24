@@ -1,0 +1,18 @@
+@media (max-width: 450px) {
+  .contacto__main {
+    width: 380px;
+  }
+}
+@media (min-width: 451) and (max-width: 700px) {
+  .contacto__main {
+    width: 80%;
+  }
+}
+@media (min-width: 701px) {
+  .contacto__main {
+    width: 600px;
+  }
+}
+.contacto__main {
+  background-color: red;
+}/*# sourceMappingURL=contacto.css.map */
